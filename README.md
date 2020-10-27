@@ -6,8 +6,9 @@ This Project is from a tutorial on Fireship.io
 
 [fireship: flutter-ipod](https://fireship.io/lessons/flutter-ipod/)
 
-![Screenshot A](/assets/screenshot_A.png)
-![Screenshot B](/assets/screenshot_B.png)
+
+![Screenshot A](/assets/Screenshot_A.png)
+
 
 
 
