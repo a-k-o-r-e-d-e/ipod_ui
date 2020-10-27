@@ -6,7 +6,10 @@ This Project is from a tutorial on Fireship.io
 
 [fireship: flutter-ipod](https://fireship.io/lessons/flutter-ipod/)
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Screenshot A](/assets/screenshot_A.png)
+![Screenshot B](/assets/screenshot_B.png)
+
+
 
 ## Getting Started
 
