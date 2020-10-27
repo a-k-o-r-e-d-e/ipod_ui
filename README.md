@@ -6,6 +6,8 @@ This Project is from a tutorial on Fireship.io
 
 [fireship: flutter-ipod](https://fireship.io/lessons/flutter-ipod/)
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
